@@ -1,4 +1,3 @@
-package program_04;
 import java.util.*;
 
 public class StudentData {
